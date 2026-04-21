@@ -32,3 +32,5 @@ Here are some ideas to get you started:
 ##### ✦ Tools
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+
+<p align="center"> ゆっくりと、しかし着実に。</p>
